@@ -1,0 +1,18 @@
+.webdesign{
+    text-align: center;
+    background-image: linear-gradient(black, blueviolet);
+    color: white;
+}
+#tablet{
+    font-family: Arial, Helvetica, sans-serif;
+    color:greenyellow;
+    text-shadow: 2px 2px blueviolet;
+    font-weight: 800;
+    border-style:solid;
+    border-color:blueviolet;
+    border-radius:20px;   
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
